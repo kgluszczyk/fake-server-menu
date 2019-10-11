@@ -1,0 +1,22 @@
+{
+  "menu": [
+    {
+      "id": 0,
+      "title": "Pierś",
+      "price": 11,
+      "description": "Dobra pierś",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVGJ7PvhKAe6hbzl4fwoVxK8Mwsi5QF3E-S5MYZzN_fH3OnvxM&s",
+      "fullDescription": "Dobra pierś - Full",
+      "phot": "https://www.conamokotowie.pl/images/miejsca/hamsa-grill.jpg"
+    },
+    {
+      "id": 1,
+      "title": "Ryba",
+      "price": 13,
+      "description": "Dobra ryba",
+      "thumbnail": "https://st2.depositphotos.com/4520249/10923/v/950/depositphotos_109231268-stock-illustration-pet-fish-icon.jpg",
+      "fullDescription": "Dobra ryba - Full",
+      "phot": "https://www.conamokotowie.pl/images/miejsca/hamsa-grill.jpg"
+    }
+  ]
+}
